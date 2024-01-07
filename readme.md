@@ -1,6 +1,8 @@
 # Trello Board Member Fetcher
 
-This Python script fetches member information from a specified Trello board. It retrieves all `idMembers` for users in the Trello board, labeling them with their usernames. This project was done for my own personal project to send messages onto Telegram to the people assigned to my Trello boards through the use of Trello's API as well as Telegram's Bot feature, hosted on CloudFlare Workers (for free!).
+This Python script fetches member information from a specified Trello board. It retrieves all `idMembers` for users in the Trello board, labeling them with their usernames. 
+
+This project was done for my own personal project to send messages onto Telegram to the people assigned to my Trello boards through the use of Trello's API as well as Telegram's Bot feature, hosted on CloudFlare Workers (for free!).
 
 ## Prerequisites
 
