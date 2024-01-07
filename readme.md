@@ -64,4 +64,4 @@ This project is licensed under [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, please contact me at `your-email@example.com`.
+If you have any questions or feedback, please create a new issue on GitHub and I'll see if I can help you with your issue.
