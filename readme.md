@@ -75,3 +75,18 @@ This project is licensed under [MIT License](LICENSE).
 ## Contact
 
 If you have any questions or feedback, please create a new issue on GitHub and I'll see if I can help you with your issue.
+
+## FAQ
+
+### How to Retrieve a Trello Board's ID from the Board's URL
+
+To find the ID of a Trello board from its URL, follow these steps (as of writing in January 8th, 2024):
+
+1. **Open your Trello board** in a web browser. The URL in the address bar will look something like this:
+   `https://trello.com/b/BoardID/your-board-name`
+
+2. **Locate the Board ID**: In the URL, the Board ID is the alphanumeric string located between `/b/` and the next `/`. For example, in `https://trello.com/b/BoardID/your-board-name`, `BoardID` is the ID of your board.
+
+3. **Copy the Board ID**: Highlight and copy the Board ID. You will use this ID in your `.env` file or wherever the board ID is required in the application.
+
+Remember, the Board ID is unique to each Trello board and is different from the board's name or other descriptive text in the URL.
